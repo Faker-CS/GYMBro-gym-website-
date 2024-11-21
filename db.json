@@ -1,0 +1,55 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "servicename": "kickboxing",
+      "imageurl": "assets/img/services/3.jpg",
+      "description": "Kickboxing is a full-contact combat sport and a form of boxing based on punching and kicking. The fight takes place in a boxing ring."
+    },
+    {
+      "id": 2,
+      "servicename": "bodybuilding",
+      "imageurl": "assets/img/services/2.jpg",
+      "description": "Build your body with the world's strongest with the largest selection of supplements, articles, workout programs"
+    },
+    {
+      "id": 3,
+      "servicename": "aerobic",
+      "imageurl": "assets/img/services/1.jpg",
+      "description": "Aerobic exercise is a physical activity that increases your heart rate and how much oxygen your body uses to produce energy"
+    }
+  ],
+  "token": [
+    {
+      "id": 1,
+      "auth": true
+    }
+  ],
+  "teamMembers": [
+    {
+      "id": 5,
+      "nom": "faker sassi",
+      "role": "Judo Coach",
+      "Email": "chifaker@gmail.com",
+      "image": "/assets/img/team/faker.jpg"
+    },
+    {
+      "id": 6,
+      "nom": "Andrew Tate",
+      "role": "Boxe Coach",
+      "Email": "AndrewMachekel@gmail.com",
+      "image": "assets\\img\\team\\Androw_Tate.jpg"
+    }
+  ],
+  "subscribers": [
+    {
+      "name": "faker chihaoui sassi",
+      "email": "chifaker@gmail.com",
+      "phone": "20277060",
+      "gender": "Male",
+      "date": "2024-11-15",
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
